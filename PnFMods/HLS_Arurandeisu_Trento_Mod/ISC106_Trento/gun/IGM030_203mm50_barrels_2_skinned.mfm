@@ -1,0 +1,19 @@
+<IGM030_203mm50_barrels_2_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGM030_203mm50_barrels_2_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGM030_203mm50_barrels_2_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGM030_203mm50_barrels_2_n.dds	</Texture>
+	</property>
+</IGM030_203mm50_barrels_2_skinned.mfm>
