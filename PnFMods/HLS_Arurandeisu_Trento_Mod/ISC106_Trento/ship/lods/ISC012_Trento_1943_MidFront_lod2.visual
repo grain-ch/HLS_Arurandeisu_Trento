@@ -111,7 +111,7 @@
 			<primitive>	MidFront_crack_Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -139,7 +139,7 @@
 			<primitive>	MidFront_crack_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -167,7 +167,7 @@
 			<primitive>	MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -181,7 +181,7 @@
 			<primitive>	MidFront_patch_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -195,7 +195,7 @@
 			<primitive>	MidFront_patch_MidBack_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -209,14 +209,14 @@
 			<primitive>	MidFront_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.7375 -0.4681 -0.9213	</min>
-		<max>	0.7375 2.7327 3.1660	</max>
+		<min>	-0.7371 -0.4679 -0.9208	</min>
+		<max>	0.7371 2.7314 3.1644	</max>
 	</boundingBox>
 </ISC012_Trento_1943_MidFront_lod2.visual>

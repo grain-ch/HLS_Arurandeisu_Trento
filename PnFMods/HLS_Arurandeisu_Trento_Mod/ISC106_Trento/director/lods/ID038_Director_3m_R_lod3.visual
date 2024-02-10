@@ -41,7 +41,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1284 0.0000 -0.1036	</min>
-		<max>	0.1251 0.1105 0.1036	</max>
+		<min>	-0.1283 0.0000 -0.1035	</min>
+		<max>	0.1250 0.1104 0.1035	</max>
 	</boundingBox>
 </ID038_Director_3m_R_lod3.visual>

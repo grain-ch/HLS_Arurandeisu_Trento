@@ -50,7 +50,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1827 -0.0667 -0.0763	</min>
-		<max>	0.1827 0.0980 0.0763	</max>
+		<min>	-0.1826 -0.0667 -0.0763	</min>
+		<max>	0.1826 0.0980 0.0763	</max>
 	</boundingBox>
 </ID022_Director_LA_3m.visual>

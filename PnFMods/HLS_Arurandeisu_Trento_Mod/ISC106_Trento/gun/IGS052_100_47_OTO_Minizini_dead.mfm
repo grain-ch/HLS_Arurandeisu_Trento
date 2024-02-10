@@ -1,5 +1,5 @@
 <IGS052_100_47_OTO_Minizini_dead.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/default_ao.dds	</Texture>

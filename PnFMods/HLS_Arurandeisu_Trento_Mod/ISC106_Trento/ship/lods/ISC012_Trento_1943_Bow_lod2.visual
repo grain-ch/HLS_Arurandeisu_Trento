@@ -66,7 +66,7 @@
 			<primitive>	Bow_crack_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -80,7 +80,7 @@
 			<primitive>	Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -94,14 +94,14 @@
 			<primitive>	Bow_patch_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.5945 -0.5218 2.5349	</min>
-		<max>	0.5945 0.5590 6.6045	</max>
+		<min>	-0.5942 -0.5215 2.5336	</min>
+		<max>	0.5942 0.5587 6.6012	</max>
 	</boundingBox>
 </ISC012_Trento_1943_Bow_lod2.visual>

@@ -93,7 +93,7 @@
 			<primitive>	MidBack_crack_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -121,7 +121,7 @@
 			<primitive>	MidBack_crack_Stern_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -135,7 +135,7 @@
 			<primitive>	MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -149,7 +149,7 @@
 			<primitive>	MidBack_patch_Stern_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -163,14 +163,14 @@
 			<primitive>	MidBack_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.7515 -0.4593 -4.5483	</min>
-		<max>	0.7515 3.0042 0.5622	</max>
+		<min>	-0.7511 -0.4590 -4.5460	</min>
+		<max>	0.7511 3.0027 0.5619	</max>
 	</boundingBox>
 </ISC012_Trento_1943_MidBack_lod2.visual>

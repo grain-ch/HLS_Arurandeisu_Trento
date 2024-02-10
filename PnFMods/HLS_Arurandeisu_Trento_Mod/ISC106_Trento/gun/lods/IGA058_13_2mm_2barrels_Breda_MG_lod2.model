@@ -1,5 +1,5 @@
 <IGA058_13_2mm_2barrels_Breda_MG_lod2.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/lods/IGA058_13_2mm_2barrels_Breda_MG_lod3	</parent>
 	<extent>	14.0000	</extent>
 	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/lods/IGA058_13_2mm_2barrels_Breda_MG_lod2	</nodefullVisual>

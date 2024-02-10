@@ -1,5 +1,5 @@
 <ID026_Director_5m_lod2.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/director/lods/ID026_Director_5m_lod3	</parent>
 	<extent>	14.0000	</extent>
 	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/director/lods/ID026_Director_5m_lod2	</nodefullVisual>

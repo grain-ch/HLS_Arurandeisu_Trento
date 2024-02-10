@@ -84,7 +84,7 @@
 			<primitive>	Bow_crack_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -98,7 +98,7 @@
 			<primitive>	Bow_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -112,7 +112,7 @@
 			<primitive>	Bow_patch_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -126,7 +126,7 @@
 			<primitive>	Bow_patch_MidFront_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -140,14 +140,14 @@
 			<primitive>	Bow_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.5944 -0.5218 2.5350	</min>
-		<max>	0.5944 0.5758 6.6045	</max>
+		<min>	-0.5941 -0.5215 2.5338	</min>
+		<max>	0.5941 0.5755 6.6012	</max>
 	</boundingBox>
 </ISC012_Trento_1943_Bow_lod1.visual>

@@ -25,14 +25,14 @@
 			<primitive>	IGT006_533_mm_3_tubes_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGT006_533mm_3tubes_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1068 -0.0013 -0.2749	</min>
-		<max>	0.1140 0.1116 0.3401	</max>
+		<min>	-0.1067 -0.0013 -0.2748	</min>
+		<max>	0.1139 0.1115 0.3399	</max>
 	</boundingBox>
 </IGT021_533_mm_3_tubes_dead_lod1.visual>

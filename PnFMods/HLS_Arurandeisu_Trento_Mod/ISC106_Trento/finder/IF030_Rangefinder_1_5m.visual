@@ -33,6 +33,6 @@
 	</renderSet>
 	<boundingBox>
 		<min>	-0.0560 -0.0009 -0.0160	</min>
-		<max>	0.0560 0.1017 0.0160	</max>
+		<max>	0.0560 0.1016 0.0160	</max>
 	</boundingBox>
 </IF030_Rangefinder_1_5m.visual>

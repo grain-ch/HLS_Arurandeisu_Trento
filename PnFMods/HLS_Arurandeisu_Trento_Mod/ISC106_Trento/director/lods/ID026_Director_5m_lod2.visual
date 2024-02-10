@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1820 0.0000 -0.1023	</min>
-		<max>	0.1820 0.2053 0.1023	</max>
+		<min>	-0.1819 0.0000 -0.1022	</min>
+		<max>	0.1819 0.2052 0.1022	</max>
 	</boundingBox>
 </ID026_Director_5m_lod2.visual>

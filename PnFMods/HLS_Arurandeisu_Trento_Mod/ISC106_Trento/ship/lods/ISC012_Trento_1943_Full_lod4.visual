@@ -25,14 +25,14 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/ship/ISC012_Trento_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.6762 -0.4469 -6.5252	</min>
-		<max>	0.6762 1.7932 6.6045	</max>
+		<min>	-0.6759 -0.4467 -6.5220	</min>
+		<max>	0.6759 1.7923 6.6012	</max>
 	</boundingBox>
 </ISC012_Trento_1943_Full_lod4.visual>
