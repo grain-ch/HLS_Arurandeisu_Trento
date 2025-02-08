@@ -1,7 +1,6 @@
 <ID026_Director_5m.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/director/lods/ID026_Director_5m_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/director/ID026_Director_5m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/director/ID026_Director_5m.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ID026_Director_5m.model>

@@ -1,5 +1,5 @@
 <IC007_Catapult_Giussano_skinned.mfm>
-	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/catapult/default_ao.dds	</Texture>
@@ -15,5 +15,23 @@
 	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/catapult/IC007_Catapult_Giussano_n.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.6000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	3.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	1.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.4000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	1.0000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	1.0000	</Float>
 	</property>
 </IC007_Catapult_Giussano_skinned.mfm>

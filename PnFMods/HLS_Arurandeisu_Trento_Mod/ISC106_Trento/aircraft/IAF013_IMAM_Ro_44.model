@@ -1,7 +1,6 @@
 <IAF013_IMAM_Ro_44.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/aircraft/lods/IAF013_IMAM_Ro_44_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/aircraft/IAF013_IMAM_Ro_44	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/aircraft/IAF013_IMAM_Ro_44.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </IAF013_IMAM_Ro_44.model>

@@ -1,7 +1,6 @@
 <IGS003_100mm_50_Mod_OTO_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/lods/IGS003_100mm_50_Mod_OTO_dead_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGS003_100mm_50_Mod_OTO_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGS003_100mm_50_Mod_OTO_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </IGS003_100mm_50_Mod_OTO_dead.model>

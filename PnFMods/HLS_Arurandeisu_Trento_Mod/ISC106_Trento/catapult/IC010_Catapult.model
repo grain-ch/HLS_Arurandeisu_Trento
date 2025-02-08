@@ -1,7 +1,6 @@
 <IC010_Catapult.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/catapult/lods/IC010_Catapult_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/catapult/IC010_Catapult	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/catapult/IC010_Catapult.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </IC010_Catapult.model>

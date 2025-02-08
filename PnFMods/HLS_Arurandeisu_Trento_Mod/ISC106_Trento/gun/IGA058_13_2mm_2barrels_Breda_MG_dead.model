@@ -1,7 +1,6 @@
 <IGA058_13_2mm_2barrels_Breda_MG_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/lods/IGA058_13_2mm_2barrels_Breda_MG_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGA058_13_2mm_2barrels_Breda_MG_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLS_Arurandeisu_Trento_Mod/ISC106_Trento/gun/IGA058_13_2mm_2barrels_Breda_MG_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </IGA058_13_2mm_2barrels_Breda_MG_dead.model>
